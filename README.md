@@ -28,6 +28,17 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+# Table of Contents
+
+1. [Project Overview](#project-overview-)
+2. [Features](#features-)
+    - [Future Enhancements (To-Do)](#future-enhancements-to-do-)
+3. [File Structure](#file-structure-)
+4. [Requirements](#requirements-)
+5. [Usage Examples](#usage-examples-)
+6. [Setup and Installation Instructions](#setup-and-installation-instructions-)
+7. [Troubleshooting Tips](#troubleshooting-tips-)
+8. [Contribution Guidelines](#contribution-guidelines-)
 
 ## Project Overview 🌐
 
