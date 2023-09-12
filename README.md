@@ -33,12 +33,11 @@
 1. [Project Overview](#project-overview-)
 2. [Features](#features-)
     - [Future Enhancements (To-Do)](#future-enhancements-to-do-)
-3. [File Structure](#file-structure-)
-4. [Requirements](#requirements-)
-5. [Usage Examples](#usage-examples-)
-6. [Setup and Installation Instructions](#setup-and-installation-instructions-)
-7. [Troubleshooting Tips](#troubleshooting-tips-)
-8. [Contribution Guidelines](#contribution-guidelines-)
+3. [Requirements](#requirements-)
+4. [Usage Examples](#usage-examples-)
+    - [Setup and Installation Instructions](#setup-and-installation-instructions-)
+6. [Troubleshooting Tips](#troubleshooting-tips-)
+7. [Contribution Guidelines](#contribution-guidelines-)
 
 ## Project Overview 🌐
 
